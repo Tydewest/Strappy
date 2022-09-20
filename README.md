@@ -1,1 +1,1 @@
-# StrappyCSS
+# Strappy CSS
